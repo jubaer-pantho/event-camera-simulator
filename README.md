@@ -3,6 +3,15 @@
 This is python-based simulator for an event-camera. The simulator draws visual attention on a region-level. This indicates that instead of identifying events for each pixel, the design flow labels each region based on the spatio-temporal relevance.  
 
 
+
+=================
+PREREQUISITE
+=================
+Numpy
+OpenCV
+Python3.x
+
+
 =================
 HOW TO RUN ?
 =================
